@@ -1,0 +1,1 @@
+# zte-mf293n2-auth-bypass
